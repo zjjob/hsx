@@ -1,0 +1,63 @@
+@import url("Healder.css");
+@import url("footer.css");
+.banner{
+	width:100%;
+	border-bottom: 30px solid #606060;
+}
+.banner img{
+	display: block;
+	width: 100%;
+}
+.main .publc{
+	font-size: 12px;
+	padding-bottom: 230px;
+}
+.main .publc p{
+	margin-bottom: 0;
+	color: gray;
+}
+.main .publc .count1{
+	color: black;
+}
+.main .publc .count1 .countimg{
+	width: 368px;
+	float: left;
+}
+.main .publc .count1 .countimg img{
+	width: 100%;
+	
+}
+.main .publc .count1 .countfont{
+	float: left;
+	padding:60px 0px 60px 30px;
+}
+.main .publc .count1 .countfont p{
+	line-height: 20px;
+}
+.main .publc .count1 .countfont input[type='button']{
+	width: 129px;
+	height: 29px;
+	background: url(../img/hir1button.png) no-repeat;
+	border: none;
+	cursor: pointer;
+	margin-top: 20px;
+}
+.main .publc .count1 .countfont input[type='button'].btn2{
+	background: url(../img/hirbutton2.png) no-repeat;
+}
+.main .publc .count1 .countfont3{
+	padding: 11px 0px 50px 40px;
+}
+.main .publc .count1 .countfont input[type='button'].btn3{
+	background: url(../img/hirbutton3.png) no-repeat;
+}
+.main .publc .count1 .countfont input[type='button'].btn4{
+	background: url(../img/hirbutton4.png) no-repeat;
+}
+.main .publc .count1 .countfont5{
+	padding: 40px 0px 50px 40px;
+}
+.main .publc .count1 .countfont input[type='button'].btn5{
+	background: url(../img/hirbutton5.png) no-repeat;
+}
+
